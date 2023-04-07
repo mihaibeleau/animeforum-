@@ -14,7 +14,7 @@ body{
 }
 
 .about-section{
-    background: url(file:///D:/GOLDEN%20TIPS/boruto_header2-1038x576.jpg) no-repeat left;
+    background: url(<img src="images/boruto_header2-1038x576.jpg") no-repeat left;
     background-size: 55%;
     background-color: #fdfdfd;
     overflow: hidden;
